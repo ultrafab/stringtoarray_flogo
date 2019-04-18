@@ -1,0 +1,24 @@
+{
+  "name": "SplitString",
+  "version": "0.0.1",
+  "type": "flogo:activity",
+  "description": "Split a string into array",
+  "ref": "github.com/ultrafab",
+  "author": "Ultrafab",
+  "inputs":[
+    {
+      "name": "input_string",
+      "type": "string"
+    },
+    {
+      "name": "split_char",
+      "type": "string"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "result",
+      "type": "array"
+    }
+  ]
+}
