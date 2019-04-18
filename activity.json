@@ -1,10 +1,11 @@
 {
-  "name": "SplitString",
-  "version": "0.0.1",
+  "name": "splitStringToArray",
   "type": "flogo:activity",
-  "description": "Split a string into array",
-  "ref": "github.com/ultrafab",
-  "author": "Ultrafab",
+  "ref": "github.com/ultrafab/stringtoarray_flogo",
+  "version": "0.0.1",
+  "title": "Split string into array",
+  "description": "This activity provides your flogo application the ability to split a path into array",
+  "homepage": "https://github.com/ultrafab/stringtoarray_flogo",
   "inputs":[
     {
       "name": "input_string",
