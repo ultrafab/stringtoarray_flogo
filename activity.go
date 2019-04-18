@@ -1,4 +1,4 @@
-package SplitString
+package stringtoarray_flogo
 
 import (
 	"github.com/TIBCOSoftware/flogo-lib/core/activity"

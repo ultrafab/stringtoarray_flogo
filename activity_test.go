@@ -1,4 +1,4 @@
-package SplitString
+package stringtoarray_flogo
 
 import (
 	"io/ioutil"
